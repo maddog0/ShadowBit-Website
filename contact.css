@@ -1,0 +1,13 @@
+.contact-info {
+	font-family: 'Montserrat', sans-serif;
+	color: #C0C0C0;
+}
+.contact-info h1{
+	font-size: 40px;
+	text-align: center;
+}
+.contact-info p{
+	font-size: 25px;
+	padding-left: 735px;
+	text-align: left;
+}
