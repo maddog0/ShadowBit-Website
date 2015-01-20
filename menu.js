@@ -17,6 +17,9 @@ var main = function(){
 			left: '0px'
 		}, 200);
 	});
+	
+	$('.icon-expand').click(function() {
+		$(.
 };
 
 $(document).ready(main);

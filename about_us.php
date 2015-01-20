@@ -16,7 +16,6 @@
 				<li><a href="index.php">Home</a></li>
 				<li><a href="projects.php">Projects</a></li>
 				<li><a href="contact.php">Contact</a></li>
-				<li><a href="blog.php">Blog</a></li>
 			</ul>
 		</div>
 		
@@ -26,7 +25,7 @@
 				Menu
 			</div>
 			<div>
-				<h1>UNDER CONSTRUCTION</h1>
+				<h1>A hobby project by William Callanan</h1>
 			</div>
 		</div>
 			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

@@ -16,7 +16,6 @@
 				<li><a href="index.php">Home</a></li>
 				<li><a href="projects.php">Projects</a></li>
 				<li><a href="contact.php">Contact</a></li>
-				<li><a href="blog.php">Blog</a></li>
 			</ul>
 		</div>
 		
@@ -30,7 +29,7 @@
 				<h1>reached at</h1>
 				<p>phone: 203-525-0409</p>
 				<p>E-mail: williamhcallanan@gmail.com</p>
-				<p><a href="www.linkedin.com/in/williamhcallanan/">LinkedIn</a></p>
+				<p><a href="http://www.linkedin.com/in/williamhcallanan">LinkedIn</a></p>
 			</div>
 		</div>
 			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
